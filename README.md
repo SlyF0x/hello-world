@@ -1,2 +1,2 @@
 # hello-world
-A short description.
+Learning to think with branches!
